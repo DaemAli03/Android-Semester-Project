@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SemesterProject</string>
+    <string name="name">TODO</string>
+    <string name="input">Add a New Item</string>
+    <string name="add">Add</string>
+    <string name="title">Todo List</string>
+</resources>
